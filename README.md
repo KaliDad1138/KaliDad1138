@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @KaliDad1138
+- 👀 I’m interested in ...
+- learning, linux, python, tor, mans use of tools, open source, self taught, computer science, cyberpunk
+- 🌱 I’m currently learning ...
+- python basic programming, debating airforce in order to apply and learn more skills
+- 💞️ I’m looking to collaborate on ...
+- anthing that can help me learn
+- 📫 How to reach me ...
+KaliDad1138@proton.me
+<!---
+KaliDad1138/KaliDad1138 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
